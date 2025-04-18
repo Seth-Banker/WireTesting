@@ -1,8 +1,9 @@
 {
   "date": "18-04-2025",
-  "lis": 5380.25,
-  "bullish": [5395.75, 5410.50, 5430.00],
-  "bearish": [5365.00, 5350.25, 5335.75],
-  "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  "redditUrl": "none"
+  "lis": 5340.25,
+  "bullish": [5345.75, 5358.00, 5370.25],
+  "bearish": [5332.50, 5320.00, 5308.25],
+  "youtubeUrl": "https://youtube.com/your-daily-outlook",
+  "redditUrl": "https://reddit.com/r/your-daily-thread",
+  "newsletterUrl": "https://yourwebsite.com/newsletter"
 }
